@@ -1,6 +1,6 @@
 <h1 align="center">Last Secure Code Benchmark</h1>
 
-<p align="top"><img src="https://last-secure-code-benchmark.github.io/brand/qwen.png" alt="Qwen" height="22" align="top">&nbsp;Qwen Team, Alibaba Token Hub, Alibaba Group&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://last-secure-code-benchmark.github.io/brand/aliyun-mark.png" alt="Alibaba Cloud" height="22" align="top">&nbsp;Cloud Safety and Security, Alibaba Cloud, Alibaba Group<br><img src="https://last-secure-code-benchmark.github.io/brand/nus.png" alt="NUS" height="22" align="top">&nbsp;National University of Singapore</p>
+<p align="center"><img src="https://last-secure-code-benchmark.github.io/brand/qwen.png" alt="Qwen" height="22" align="top">&nbsp;Qwen Team, Alibaba Token Hub, Alibaba Group&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://last-secure-code-benchmark.github.io/brand/aliyun-mark.png" alt="Alibaba Cloud" height="22" align="top">&nbsp;Cloud Safety and Security, Alibaba Cloud, Alibaba Group<br><img src="https://last-secure-code-benchmark.github.io/brand/nus.png" alt="NUS" height="22" align="top">&nbsp;National University of Singapore</p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2610.14766"><img src="https://img.shields.io/badge/arXiv-2610.14766-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
